@@ -27,7 +27,8 @@ I enjoy building scalable systems, automating workflows, and exploring emerging 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SirLinda&layout=compact&theme=tokyonight)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=SirLinda&theme=react-dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SirLinda&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SirLinda&layout=compact&theme=tokyonight)
 
 ---
 
