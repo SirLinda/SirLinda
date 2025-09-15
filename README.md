@@ -25,10 +25,9 @@ I enjoy solving complex problems, optimizing software performance, and exploring
 
 ### 📌 Bitbucket Contributions
 *(Manual snapshot; update as needed)*  
-- **Total Commits:** ~[insert commits]  
 - **Primary Language:** Java  
 - **Repositories:** Key projects and enterprise systems not publicly visible on GitHub  
-- **Work Type:** Enterprise applications, system integrations, migration projects, automation  
+- **Work Type:** Enterprise applications, system integrations, migration projects
 
 ---
 
@@ -40,4 +39,4 @@ I enjoy solving complex problems, optimizing software performance, and exploring
 ---
 
 ### 🌐 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/YOUR-LINK) • [Portfolio](https://YOUR-WEBSITE)
+[LinkedIn](https://www.linkedin.com/in/senzo-nkosi-366812214) • [Portfolio](https://sirlinda.github.io/)
