@@ -5,15 +5,32 @@ I enjoy solving complex problems, optimizing software performance, and exploring
 
 ---
 
-### 💻 Core Skills
-![skills-badge](https://camo.githubusercontent.com/7824e03d0cd79f85b8b451bb1dea72245d8ecbf39275389ac2df0a3ee9eb5a55/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d2532333337373641422e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465)
+## 💻 Tech Stack & Skills
 
-- **Primary Language:** Java  
-- **Frameworks & Libraries:** Spring Boot, Hibernate, JSP, FreeMarker  
-- **Databases:** Oracle, PostgreSQL, Firestore  
-- **APIs & Integration:** REST API design, SOAP (where needed), system and third-party integrations  
-- **DevOps & Tools:** Git/Bitbucket, Docker, Linux, CI/CD pipelines  
-- **Other Strengths:** Data migration, performance tuning, automation scripting, testing & QA
+<!-- Language / Technology Badges -->
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle%20DB-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-%230052CC.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+
+**Core strengths**  
+- Backend development with **Java** & **Spring Boot**  
+- API design & external service integrations  
+- Database development & migrations (**Oracle**, **PostgreSQL**)  
+- Scripting & automation (Python)  
+- Front-end components in TypeScript/JavaScript  
+- CI/CD, Docker, and Linux server management  
+
+---
 
 ---
 
