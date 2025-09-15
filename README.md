@@ -19,8 +19,6 @@ I enjoy solving complex problems, optimizing software performance, and exploring
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SirLinda&layout=compact&theme=tokyonight)
 
-![GitHub Contributions](https://ghchart.rshah.org/SirLinda)
-
 ---
 
 ### 📌 Bitbucket Contributions
