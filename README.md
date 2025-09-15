@@ -22,7 +22,6 @@ I enjoy solving complex problems, optimizing software performance, and exploring
 ---
 
 ### 📌 Bitbucket Contributions
-*(Manual snapshot; update as needed)*  
 - **Primary Language:** Java  
 - **Repositories:** Key projects and enterprise systems not publicly visible on GitHub  
 - **Work Type:** Enterprise applications, system integrations, migration projects
