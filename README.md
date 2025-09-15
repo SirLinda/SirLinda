@@ -6,11 +6,14 @@ I enjoy solving complex problems, optimizing software performance, and exploring
 ---
 
 ### 💻 Core Skills
-- **Languages:** Java (primary), Python, TypeScript, SQL  
+![skills-badge](https://camo.githubusercontent.com/7824e03d0cd79f85b8b451bb1dea72245d8ecbf39275389ac2df0a3ee9eb5a55/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d2532333337373641422e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465)
+
+- **Primary Language:** Java  
 - **Frameworks & Libraries:** Spring Boot, Hibernate, JSP, FreeMarker  
 - **Databases:** Oracle, PostgreSQL, Firestore  
-- **Tools & DevOps:** Git/Bitbucket, Docker, Linux, CI/CD pipelines  
-- **Other Skills:** REST API Development, Data Migration, Automation, Performance Tuning, Web Services, System Integration  
+- **APIs & Integration:** REST API design, SOAP (where needed), system and third-party integrations  
+- **DevOps & Tools:** Git/Bitbucket, Docker, Linux, CI/CD pipelines  
+- **Other Strengths:** Data migration, performance tuning, automation scripting, testing & QA
 
 ---
 
