@@ -7,7 +7,6 @@ I enjoy solving complex problems, optimizing software performance, and exploring
 
 ## 💻 Tech Stack & Skills
 
-<!-- Language / Technology Badges -->
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle%20DB-F80000?style=for-the-badge&logo=oracle&logoColor=white)
@@ -31,6 +30,28 @@ I enjoy solving complex problems, optimizing software performance, and exploring
 - CI/CD, Docker, and Linux server management  
 
 ---
+
+## 🚀 Key Projects
+
+> ### 🏢 Archibus–Oracle Integration  
+> **Impact:** Synced facilities-management data between Archibus and Oracle in real time.  
+> **Tech:** `Java` · `Spring Boot` · `Oracle SQL`
+
+> ### 🎓 Canvas LMS Integration  
+> **Impact:** Automated course-data exchange between internal apps and Canvas.  
+> **Tech:** `Java` · `Spring Boot` · `Canvas API`
+
+> ### 🗳️ Online Voting Platform  
+> **Impact:** Secure web-based platform for internal elections with full audit trail.  
+> **Tech:** `Java EE` · `Spring Security` · `MySQL`
+
+> ### ☁️ Microsoft 365 Integration  
+> **Impact:** Linked university e-forms with Microsoft 365 services (calendar, file control, collaboration).  
+> **Tech:** `Java` · `Spring Boot` · `Microsoft Graph API`
+
+> ### 📄 University e-Forms  
+> **Impact:** Built dynamic electronic forms replacing paper-based processes.  
+> **Tech:** `Java` · `JSP/Servlets` · `REST APIs`
 
 ---
 
