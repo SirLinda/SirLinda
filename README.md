@@ -25,9 +25,9 @@ I enjoy solving complex problems, optimizing software performance, and exploring
 - Backend development with **Java** & **Spring Boot**  
 - API design & external service integrations  
 - Database development & migrations (**Oracle**, **PostgreSQL**)  
-- Scripting & automation (Python)  
-- Front-end components in TypeScript/JavaScript  
-- CI/CD, Docker, and Linux server management  
+- Scripting & automation (Bash)  
+- Front-end components in JavaScript && Freemarker 
+- Linux server management  
 
 ---
 
@@ -43,7 +43,7 @@ I enjoy solving complex problems, optimizing software performance, and exploring
 
 > ### 🗳️ Online Voting Platform  
 > **Impact:** Secure web-based platform for internal elections with full audit trail.  
-> **Tech:** `Java EE` · `Spring Security` · `MySQL`
+> **Tech:** `Java ` · `Spring Security` · `MySQL`
 
 > ### ☁️ Microsoft 365 Integration  
 > **Impact:** Linked university e-forms with Microsoft 365 services (calendar, file control, collaboration).  
@@ -51,7 +51,7 @@ I enjoy solving complex problems, optimizing software performance, and exploring
 
 > ### 📄 University e-Forms  
 > **Impact:** Built dynamic electronic forms replacing paper-based processes.  
-> **Tech:** `Java` · `JSP/Servlets` · `REST APIs`
+> **Tech:** `Java` · `Freemarker` · `REST APIs`
 
 ---
 
